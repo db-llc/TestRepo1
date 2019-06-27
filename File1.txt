@@ -3,3 +3,5 @@ This is file 1
 db-gs: fix 1 file 1
 
 db-gs: fix 2 file 1
+
+db-gs: fix 3 file 1
