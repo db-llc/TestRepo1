@@ -1,3 +1,5 @@
 This is file 2
 
 db-gs: fix 1 file 2
+
+db-gs: fix 2 file 2
